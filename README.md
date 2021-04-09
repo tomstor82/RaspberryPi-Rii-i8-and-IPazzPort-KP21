@@ -1,7 +1,6 @@
 File for Raspbian directory /home/pi/.config/openbox/ to allow multimedia keys on miniature keyboards like:
 
-Rii i8+
-IPazzPort KP21
+Rii i8+ and IPazzPort KP21
 
 to work.
 
